@@ -1,0 +1,6 @@
+Drag the .exe file for Project M (or one of it's counterparts) into Playnite (or go to "Add Game", then "Manually", and then insert the path under "Installation", then "Installation Folder")
+Under "Actions" Click "Add Action"
+Set Path to "{InstallDir}\Dolphin.exe"
+Set Arguments to "-e LOCATION_OF_EITHER_.elf_FILE"
+    These can be Found in Your Project M Folder, Under Launcher, Whatever Version You Want, and then copy the path of the .elf file
+Set Working Directory "{InstallDir}"
